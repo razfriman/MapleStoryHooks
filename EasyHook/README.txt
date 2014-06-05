@@ -1,0 +1,1 @@
+Place all these files in the directory where you run MapleStoryHooks from
